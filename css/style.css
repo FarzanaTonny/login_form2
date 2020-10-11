@@ -1,0 +1,70 @@
+
+
+.loginForm{
+    border: 6px solid black;
+    border-radius: 5px;
+    width: 538px;
+    padding: 40px 0px;
+    margin: 0 auto;
+    background-color: lightskyblue;
+}
+
+#f_name, #l_name{
+	font-size: 18px;
+    padding: 4px;
+    border: 2px solid blue;
+    border-radius: 3px;
+    margin-right: 26px;
+    margin-left: 20px;
+    /*text-align: center;*/
+    color: green;
+}
+#l_name{}
+#wrong_name h4{
+    margin-left: 45px;
+}
+#gmail, #password, #c_password{
+	padding: 5px;
+    padding-right: 150px;
+    margin-left: 20px;
+    padding-left: 10px;
+    border: 2px solid blue;
+    border-radius: 3px;
+    width: 470px;
+    font-size: 18px;
+
+}
+.in_gmail{
+
+}
+#countries{
+	width: 175px;
+    padding: 5px;
+    margin-left: 20px;
+    border: 2px solid blue;
+    border-radius: 3px;
+}
+.add_county{
+
+}
+.get_pwd h4{
+	margin-left: 160px;
+	margin-top: 3px;
+}
+#sub_btn{
+	width: 300px;
+    padding: 5px;
+    margin-left: 121px;
+    margin-top: 80px;
+    border: none;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #020080;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+#worng h4{
+	margin-left: 45px;
+}
